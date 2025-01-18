@@ -1,8 +1,8 @@
 export default function Projects() {
 	return (
-		<div className="flex flex-col items-center min-h-screen">
+		<div className="flex flex-col items-center min-h-screen mb-10">
 			<h1 className="text-text-50 font-bold text-4xl mt-32">My projects</h1>
-			<div className="flex flex-row items-center justify-center gap-10 mt-24">
+			<div className="flex flex-col xl:flex-row items-center justify-center gap-10 mt-24">
 				<a
 					href="https://github.com/posaidon09/ytdt"
 					target="_blank"
