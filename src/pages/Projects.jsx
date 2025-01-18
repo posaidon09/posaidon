@@ -6,7 +6,7 @@ export default function Projects() {
 				<a
 					href="https://github.com/posaidon09/ytdt"
 					target="_blank"
-					className="w-[300px] h-[350px] rounded-xl z-20 hover:z-40 -rotate-12 p-3 ring ring-red-500 bg-gradient-to-br bg-black from-black from-30% to-red-500/20 to-90% hover:bg-red-600/25 cursor-pointer hover:scale-110 transition-all duration-200"
+					className="w-[300px] h-[350px] backdrop-blur rounded-xl z-20 hover:z-40 -rotate-12 p-3 ring ring-red-500 bg-gradient-to-br bg-black from-black from-30% to-red-500/20 to-90% hover:bg-red-600/25 cursor-pointer hover:scale-110 transition-all duration-200"
 				>
 					<img
 						src="https://i.postimg.cc/vmhZCmZZ/Yoube.png"
@@ -22,7 +22,7 @@ export default function Projects() {
 				<a
 					href="https://github.com/posaidon09/spod"
 					target="_blank"
-					className="w-[300px] h-[350px] rounded-xl z-10 hover:z-40 group-hover:z-30 p-3 ring -ml-48 ring-green-500 bg-gradient-to-br bg-black from-black from-30% to-green-500/20 to-90% hover:bg-green-600/25 cursor-pointer hover:scale-110 transition-all duration-200"
+					className="w-[300px] h-[350px] backdrop-blur rounded-xl z-10 hover:z-40 group-hover:z-30 p-3 ring -ml-36 ring-green-500 bg-gradient-to-br bg-black from-black from-30% to-green-500/20 to-90% hover:bg-green-600/25 cursor-pointer hover:scale-110 transition-all duration-200"
 				>
 					<img
 						src="https://i.postimg.cc/fyJSC7gs/image-psd.png"
@@ -38,7 +38,7 @@ export default function Projects() {
 				<a
 					href="https://github.com/posaidon09/Rtemp"
 					target="_blank"
-					className="w-[300px] h-[350px] rounded-xl z-0 hover:z-40 p-3 rotate-12 -ml-48 ring ring-blue-500 bg-gradient-to-br bg-black =-black from-30% to-blue-500/20 to-90% hover:bg-blue-600/25 cursor-pointer hover:scale-110 transition-all duration-200"
+					className="w-[300px] h-[350px] backdrop-blur rounded-xl z-0 hover:z-40 p-3 rotate-12 -ml-32 ring ring-blue-500 bg-gradient-to-br bg-black =-black from-30% to-blue-500/20 to-90% hover:bg-blue-600/25 cursor-pointer hover:scale-110 transition-all duration-200"
 				>
 					<img
 						src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"
