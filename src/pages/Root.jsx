@@ -4,7 +4,9 @@ export default function Root() {
 	const [visible, setVisible] = useState(false);
 
 	useEffect(() => {
-		setVisible(true);
+		setTimeout(() => {
+			setVisible(true);
+		}, 100);
 	}, []);
 
 	return (
